@@ -25,6 +25,8 @@ Disclaimer: make sure you do the above correctly BEFORE interview details are re
 1. Prime sieve optimisation - `git checkout QUESTION_prime`
 2. (more to come with following terms!)
 
+WARNING: only the above problems are valid! If you find another branch which is not listed above, it is a work in progress or retired and **we will not assess submissions to them+**
+
 ## Need help?
 
 Send a message to `#recruitment` on the Bluesat Discord server, tagging `@Software Director`.
