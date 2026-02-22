@@ -22,7 +22,7 @@ Disclaimer: make sure you do the above correctly BEFORE interview details are re
 
 ## Available projects
 
-1. Prime sieve optimisation - `git checkout QUESTION_prime`
+1. Tinkercad reaction time tester - `git checkout QUESTION_tinkercad`
 2. (more to come with following terms!)
 
 WARNING: only the above problems are valid! If you find another branch which is not listed above, it is a work in progress or retired and **we will not assess submissions to them+**
