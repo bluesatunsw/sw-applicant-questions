@@ -1,4 +1,4 @@
-# sw-applicant-questions
+# SW Applicant Questions
 
 Code problems for projects applicants for software
 
@@ -29,8 +29,8 @@ WARNING: only the above problems are valid! If you find another branch which is 
 
 ## Need help?
 
-Send a message to `#recruitment` on the Bluesat Discord server, tagging `@Software Director`.
+Send a message to `#recruitment` on the Bluesat Discord server, tagging `@Software Director` or the user `void.deer`.
 
 ## For maintainers
 
-Stuck? Contact `mattrr_` on Discord.
+Stuck? Contact `void.deer` on Discord.
