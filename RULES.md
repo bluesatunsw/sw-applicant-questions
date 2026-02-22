@@ -1,15 +1,16 @@
-# Rules template
+# Rules
 
-Add rules for challenge here! These should be things like "You may use the following languages" or similar. **Don't put the problem specification here - put that in CHALLENGE.md and leave this doc for rules about how code is written / how they may research things**.
+As stated in [CHALLENGE.md](CHALLENGE.md):
+- Use Text (Arduino C++) mode only. Block-based programming is not allowed.
+- Avoid start-to-finish tutorial projects. We want to see how you learn and reason. It is also straightforward for us to identify solutions that closely match public guides.
 
+## General Rules
 
-# General rules
-
-1. **No plaigarism!** - If cheating is detected, you simply will not get an interview and you will not be considered in future terms.
+1. **No plagiarism!** - If cheating is detected, you simply will not get an interview and you will not be considered in future terms.
 
 2. **Be tidy** - We pay attention to your code, comments, usage of Git and anything else that is relevant.
 
-3. **Consider committing per iteration!** - It's helpful to markers if we can see the path you took to achieve a goal set by the task - e.g. for optimisation, you may restructure to change datastructures - this is best to put in a new commit so we can see the progress.
+3. **Commit per iteration** - It helps markers see your progress (e.g., a refactor or optimization can be shown as a separate commit).
 
 4. **Don't panic!** - We assess your submission based on your expected ability level. If you are early in your degree and/or have no relevant experience, don't worry as we will take this in mind (as long as you tell us on your application form, anyway!).
 
